@@ -58,6 +58,8 @@ use_frameworks!
 # Local AlinmaPay iOS Direct Plugin
 pod 'direct-ios-plugin', :path => './Plugin'
 
+---
+
 ## 🚀 How to Run
 
 1. Clone the repository
