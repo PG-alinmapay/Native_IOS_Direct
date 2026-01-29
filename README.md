@@ -46,6 +46,20 @@ You must obtain the following from the **AlinmaPay Merchant Dashboard**:
 
 ---
 
+## 🔌 Plugin Integration (IMPORTANT)
+
+The **AlinmaPay PG iOS plugin is included as a local pod**.
+
+### Podfile Configuration
+
+Open the `Podfile` and make sure the plugin path points to the **Plugin directory in the repository root**.
+
+### Example Podfile Entry
+use_frameworks!
+
+# Local AlinmaPay iOS Direct Plugin
+pod 'direct-ios-plugin', :path => './Plugin'
+
 ## 🚀 How to Run
 
 1. Clone the repository
