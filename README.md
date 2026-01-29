@@ -52,43 +52,33 @@ You must obtain the following from the **AlinmaPay Merchant Dashboard**:
 2. Open the workspace:
    ```bash
    open DemoApp.xcworkspace
-Configure merchant credentials in the app
-
-Select a device
-
-Run the project
+3. Configure merchant credentials in the app
+4. Select a device
+5. Run the project
 
 🍎 Apple Pay Notes
 
 Apple Pay works only on real devices
-
 Apple Pay capability must be enabled in the app target
-
 Merchant ID must match AlinmaPay configuration
 
 🧪 Debugging
 
 Use Xcode console logs for request and response debugging
-
 Payment and network errors are logged for troubleshooting
 
 ⚠️ Important
 
 This demo app is not for production use
-
 Do not commit:
-
 .pem, .p8, .key files
-
 Certificates or private keys
 
 Merchant credentials
 
 🏦 Payment Gateway
-
 AlinmaPay Payment Gateway (AlinmaPay PG)
 
 📄 License
-
 Internal use only.
 All rights reserved by AlinmaPay.
