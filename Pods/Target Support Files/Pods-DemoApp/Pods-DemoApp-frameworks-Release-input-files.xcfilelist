@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-DemoApp/Pods-DemoApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
+${BUILT_PRODUCTS_DIR}/SwiftPublicIP/SwiftPublicIP.framework
+${BUILT_PRODUCTS_DIR}/SwiftyMenu/SwiftyMenu.framework
+${BUILT_PRODUCTS_DIR}/direct-ios-plugin/direct_ios_plugin.framework
+${BUILT_PRODUCTS_DIR}/iOSDropDown/iOSDropDown.framework

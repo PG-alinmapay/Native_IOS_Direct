@@ -1,0 +1,6 @@
+framework module direct_ios_plugin {
+  umbrella header "direct-ios-plugin-umbrella.h"
+
+  export *
+  module * { export * }
+}

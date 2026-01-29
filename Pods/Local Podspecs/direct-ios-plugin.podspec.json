@@ -1,0 +1,30 @@
+{
+  "name": "direct-ios-plugin",
+  "version": "0.0.1",
+  "summary": "Plugin Direct-ios-plugin.",
+  "swift_versions": [
+    "5.0"
+  ],
+  "description": "Payment Transactions is processed using this plugin",
+  "homepage": "https://github.com/Concerto-hub/iOS_Hosted_plugin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "runali1911": "runali.ambavkar@concertosoft.com"
+  },
+  "platforms": {
+    "ios": "12.0",
+    "osx": "10.13"
+  },
+  "source": {
+    "git": "https://github.com/Concerto-hub/iOS_Hosted_plugin.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "direct-ios-plugin/Sources/**/*.{swift,h,m}",
+  "exclude_files": "Classes/Exclude",
+  "resources": "direct-ios-plugin/Sources/**/*.storyboard",
+  "frameworks": "UIKit",
+  "swift_version": "5.0"
+}
