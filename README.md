@@ -42,8 +42,6 @@ You must obtain the following from the **AlinmaPay Merchant Dashboard**:
 | Terminal Password | Terminal password |
 | Merchant Key | Secret key for request/response hashing |
 
-⚠️ **Never commit credentials or keys to GitHub**
-
 ---
 
 ## 🔌 Plugin Integration (IMPORTANT)
